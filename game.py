@@ -21,6 +21,7 @@ def print_board():
         if i in ('X', 'O'):
             char = i
 
+
         print(char, end=end)
         x += 1
 
